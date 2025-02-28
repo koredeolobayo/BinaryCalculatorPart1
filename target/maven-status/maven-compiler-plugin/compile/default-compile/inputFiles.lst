@@ -1,8 +1,6 @@
-/home/koredeolobayo/SOFE3980U-Lab3-Part1/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/Application.java
-/home/koredeolobayo/SOFE3980U-Lab3-Part1/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/BinaryAPIController.java
-/home/koredeolobayo/SOFE3980U-Lab3-Part1/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/APIResult.java
-/home/koredeolobayo/SOFE3980U-Lab3-Part1/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/BinaryAPIResult.java
-/home/koredeolobayo/SOFE3980U-Lab3-Part1/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/HelloController.java
-/home/koredeolobayo/SOFE3980U-Lab3-Part1/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/HelloAPIController.java
-/home/koredeolobayo/SOFE3980U-Lab3-Part1/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/Binary.java
-/home/koredeolobayo/SOFE3980U-Lab3-Part1/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/BinaryController.java
+/home/koredeolobayo/SOFE3980U-Lab3-Part1/BinaryCalculatorWebapp/src/main/java/com/ontariotechu/sofe3980U/HelloController.java
+/home/koredeolobayo/SOFE3980U-Lab3-Part1/BinaryCalculatorWebapp/src/main/java/com/ontariotechu/sofe3980U/Application.java
+/home/koredeolobayo/SOFE3980U-Lab3-Part1/BinaryCalculatorWebapp/src/main/java/com/ontariotechu/sofe3980U/BinaryAPIResult.java
+/home/koredeolobayo/SOFE3980U-Lab3-Part1/BinaryCalculatorWebapp/src/main/java/com/ontariotechu/sofe3980U/BinaryAPIController.java
+/home/koredeolobayo/SOFE3980U-Lab3-Part1/BinaryCalculatorWebapp/src/main/java/com/ontariotechu/sofe3980U/BinaryController.java
+/home/koredeolobayo/SOFE3980U-Lab3-Part1/BinaryCalculatorWebapp/src/main/java/com/ontariotechu/sofe3980U/Binary.java
